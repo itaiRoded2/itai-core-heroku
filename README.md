@@ -28,7 +28,7 @@ heroku buildpacks:add --index 1 heroku/nodejs
 
 Click the button below to set up this sample app on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://bitbucket.org/itaiRoded1/itai-core-heroku/src/master/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itaiRoded2/itai-core-heroku)
 
 ## Blog posts
 
