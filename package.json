@@ -1,11 +1,11 @@
 {
-  "name": "aspnet-core-demo-app",
+  "name": "itai-core-heroku",
   "version": "0.0.1",
   "private": true,
-  "description": "Demo app",
+  "description": "Itai test core app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jincod/AspNet5DemoApp.git"
+    "url": "https://github.com/itaiRoded2/itai-core-heroku.git"
   },
   "dependencies": {
     "react": "16.13.1",
