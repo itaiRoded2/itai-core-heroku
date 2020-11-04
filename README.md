@@ -8,6 +8,8 @@ C:\Users\Itai\Documents\Visual Studio 2015\Projects\itai-core-heroku\public
 
 [![Build status](https://ci.appveyor.com/api/projects/status/p3iet9wrmg8jxlmx?svg=true)](https://ci.appveyor.com/project/jincod/aspnet5demoapp)
 
+dotnet run -p src/ItaiCoreTestingHeroku/ItaiCoreTestingHeroku.csproj
+
 ## Usage
 
 ```bash
