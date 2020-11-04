@@ -1,4 +1,10 @@
-# ASP.NET Core Demo App
+# Itai test asp core on heroku
+You do not have to use button for publish
+You can just push to heroku as always
+
+see for starting:
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\itai-core-heroku\public
+
 
 [![Build status](https://ci.appveyor.com/api/projects/status/p3iet9wrmg8jxlmx?svg=true)](https://ci.appveyor.com/project/jincod/aspnet5demoapp)
 
